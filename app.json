@@ -1,0 +1,15 @@
+{
+  "name": "offerly",
+  "slug": "offerly",
+  "scheme": "offerly",
+  "version": "1.0.0",
+  "orientation": "portrait",
+  "newArchEnabled": true,
+  "splash": {
+    "backgroundColor": "#F7F8FC",
+    "resizeMode": "contain"
+  },
+  "ios": { "supportsTablet": true },
+  "android": { "adaptiveIcon": { "backgroundColor": "#F7F8FC" } },
+  "web": { "bundler": "metro" }
+}
